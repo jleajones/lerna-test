@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1"
   }
 }
